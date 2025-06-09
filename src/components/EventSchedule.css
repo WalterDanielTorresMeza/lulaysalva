@@ -1,5 +1,6 @@
 .event-schedule {
-  background-color: #ffffff;
+   background: 
+    linear-gradient(to bottom right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0.425));
   padding: 2rem 1rem;
   text-align: center;
   font-family: 'Poppins', sans-serif;
@@ -7,8 +8,8 @@
 }
 
 .event-schedule h2 {
-  font-family: 'Playfair Display', serif;
-  font-size: 2rem;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
   color: #414141;
   margin-bottom: 1.5rem;
 }
