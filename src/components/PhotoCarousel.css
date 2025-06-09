@@ -1,0 +1,30 @@
+.carousel-section {
+  padding: 2rem 1rem;
+  background-color: #ffffff;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: #414141;
+}
+
+.carousel-section h2 {
+  margin-bottom: 1.5rem;
+  color: #414141;
+  font-size: 2rem;
+}
+
+.carousel-img {
+  width: 100%;
+  height: auto;
+  max-height: 350px;
+  object-fit: contain;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+  display: block;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .carousel-img {
+    max-height: 400px;
+  }
+}
