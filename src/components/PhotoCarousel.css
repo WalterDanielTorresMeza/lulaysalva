@@ -1,6 +1,7 @@
 .carousel-section {
   padding: 2rem 1rem;
-  background-color: #ffffff;
+  background: 
+    linear-gradient(to bottom right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0.425));
   text-align: center;
   font-family: 'Poppins', sans-serif;
   color: #414141;
@@ -9,7 +10,7 @@
 .carousel-section h2 {
   margin-bottom: 1.5rem;
   color: #414141;
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 .carousel-img {
@@ -28,3 +29,20 @@
     max-height: 400px;
   }
 }
+
+.titulo-con-icono {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.8rem;
+  color: #a47163;
+  justify-content: center;
+}
+
+.titulo-icono {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+
