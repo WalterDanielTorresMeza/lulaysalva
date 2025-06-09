@@ -1,5 +1,6 @@
 .event-location {
-  background-color: #ffffff;
+    background: 
+    linear-gradient(to bottom right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0.425));
   text-align: center;
   padding: 3rem 1rem;
   font-family: 'Poppins', sans-serif;
@@ -7,7 +8,7 @@
 }
 
 .event-location h2 {
-  font-size: 2rem;
+  font-size: 2.5rem;
   color: #414141;
   margin-bottom: 1rem;
 }
