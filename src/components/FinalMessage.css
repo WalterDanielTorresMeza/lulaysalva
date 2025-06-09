@@ -1,5 +1,6 @@
 .final-message {
-  background-color: #ffffff;
+   background: 
+    linear-gradient(to bottom right, rgba(255, 255, 255, 0.342), rgba(255, 255, 255, 0.425));
   text-align: center;
   padding: 3rem 1rem;
   font-family: 'Poppins', sans-serif;
@@ -9,7 +10,7 @@
 
 .closing-quote {
   font-size: 1.3rem;
-  font-style: italic;
+    font-family: 'Poppins', sans-serif;
   margin-bottom: 1rem;
   color: #414141;
 }
