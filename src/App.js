@@ -11,8 +11,8 @@ function App() {
       <Header />
       <Countdown targetDate="2025-07-26T16:00:00" />
       <PhotoCarousel />
-      <EventSchedule />
       <EventLocation />
+      <EventSchedule />
       <FinalMessage />
       {/* Aquí van los demás componentes */}
     </div>
